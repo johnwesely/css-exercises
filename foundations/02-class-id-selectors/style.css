@@ -1,0 +1,20 @@
+p {
+    background-color: coral;
+    font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+}
+
+.cooler {
+    color: darkblue;
+    font-size: 36px;
+}
+
+#second {
+    color: darkblue;
+    font-size: 36px;
+}
+
+#fourth {
+    background-color: greenyellow;
+    font-size: 24px;
+    font-weight: bold;
+}
